@@ -37,7 +37,7 @@ else:
 input("Press Enter to close browser...")
 driver.close()"""
 
-
+# SECOND CODE
 
 
 from selenium import webdriver
