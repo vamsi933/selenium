@@ -50,3 +50,5 @@ for handle in driver.window_handles:
 
 
 input("Press Enter to close browser...")
+
+
